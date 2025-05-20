@@ -1,3 +1,23 @@
+```sh
+#git clone https://github.com/JAlcocerT/mizar
+#git clone https://github.com/majesticooss/mizar
+npm install
+
+npm run dev --host #as i was using the Opi
+npm run build
+#npm install -g serve #serve with npm
+#serve -s dist #http://localhost:3000
+npx serve -s dist #http://localhost:3000
+```
+
+You will see the regular `localhost:4321` to explore the theme
+
+> But also: `http://127.0.0.1:4321/keystatic/` is available.
+
+> > Forked from [majesticooss](https://github.com/majesticooss/mizar)
+
+---
+
 # [Mizar](https://mizar.majestico.co)
 
 <a href="https://astro.build/">![Astro](.github/images/astro-icon.png)</a>
@@ -43,7 +63,7 @@ On the folder run
 
 ## ✍️ Admin dashboard
 
-You can access the admin dashboard for editing blog post at `/keystatic` 
+You can access the admin dashboard for editing blog post at `/keystatic`
 
 For more information follow Keystatic documentation at [https://keystatic.com/docs/introduction](https://keystatic.com/docs/introduction)
 
