@@ -13,6 +13,10 @@ Key benefits of Keystatic:
 - **Type-safe**: First-class TypeScript support
 - **Zero vendor lock-in**: Your content stays in your repository
 
+* https://keystatic.com/docs/quick-start
+* https://keystatic.com/showcase/marketing-landing-page
+* https://keystatic.com/docs/installation-astro
+
 ## Basic Integration with Astro
 
 ### 1. Package Installation

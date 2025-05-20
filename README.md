@@ -1,5 +1,9 @@
 Testing [Astro x KeyStatic](https://maciekpalmowski.dev/blog/keystatic-x-astro/) with the [forked theme](#mizar)
 
+Further description at `keystatic.md`
+
+Setup:
+
 ```sh
 #git clone https://github.com/JAlcocerT/mizar
 #git clone https://github.com/majesticooss/mizar
