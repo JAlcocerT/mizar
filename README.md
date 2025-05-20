@@ -1,3 +1,5 @@
+Testing [Astro x KeyStatic](https://maciekpalmowski.dev/blog/keystatic-x-astro/) with the [forked theme](#mizar)
+
 ```sh
 #git clone https://github.com/JAlcocerT/mizar
 #git clone https://github.com/majesticooss/mizar
@@ -13,6 +15,11 @@ npx serve -s dist #http://localhost:3000
 You will see the regular `localhost:4321` to explore the theme
 
 > But also: `http://127.0.0.1:4321/keystatic/` is available.
+
+```sh
+npm run build
+npx serve -s dist #http://localhost:3000 keystatic wont be available, just the built files
+```
 
 > > Forked from [majesticooss](https://github.com/majesticooss/mizar)
 
